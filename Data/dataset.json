@@ -1,0 +1,242 @@
+{
+	"Citywalk-sit-taupe-34" : {
+		"volume": "Citywalk-sit-taupe-34_down2_2_2.rek",
+		"annotation": "Citywalk 34.seg.nrrd",
+		"set": "validation",
+		"class": "Ankle Boot"
+	},
+	"Citywalk-sit-taupe-36" : {
+		"volume": "Citywalk-sit-taupe-36_down2_2_2.rek",
+		"annotation": "Citywalk 36.seg.nrrd",
+		"set": "training",
+		"class": "Ankle Boot"
+	},
+	"Citywalk-sit-taupe-39" : {
+		"volume": "Citywalk-sit-taupe-39_down2_2_2.rek",
+		"annotation": "Citywalk 39.seg.nrrd",
+		"set": "training",
+		"class": "Ankle Boot"
+	},
+	"Citywalk-sit-taupe-40" : {
+		"volume": "Citywalk-sit-taupe-40_down2_2_2.rek",
+		"annotation": "Citywalk 40.seg.nrrd",
+		"set": "training",
+		"class": "Ankle Boot"
+	},
+	"Citywalk-sit-taupe-42" : {
+		"volume": "Citywalk-sit-taupe-42_down2_2_2.rek",
+		"annotation": "Citywalk 42.seg.nrrd",
+		"set": "test",
+		"class": "Ankle Boot"
+	},
+	"Mustang-Sch-Navy-Metalli_31" : {
+		"volume": "Mustang-Sch-Navy-Metalli_31_down2_2_2.rek",
+		"annotation": "Mustang 31.seg.nrrd",
+		"set": "training",
+		"class": "Boot"
+	},
+	"Mustang-Sch-Navy-Metalli-35" : {
+		"volume": "Mustang-Sch-Navy-Metalli-35_down2_2_2.rek",
+		"annotation": "Mustang 35.seg.nrrd",
+		"set": "validation",
+		"class": "Boot"
+	},
+	"Mustang-Sch-Navy-Metalli_36" : {
+		"volume": "Mustang-Sch-Navy-Metalli_36_down2_2_2.rek",
+		"annotation": "Mustang 36.seg.nrrd",
+		"set": "test",
+		"class": "Boot"
+	},
+	"Mustang-Sch-Navy-Metalli_37" : {
+		"volume": "Mustang-Sch-Navy-Metalli_37_down2_2_2.rek",
+		"annotation": "Mustang 37.seg.nrrd",
+		"set": "training",
+		"class": "Boot"
+	},
+	"Mustang-Sch-Navy-Metalli-40" : {
+		"volume": "Mustang-Sch-Navy-Metalli-40_down2_2_2.rek",
+		"annotation": "Mustang 40.seg.nrrd",
+		"set": "training",
+		"class": "Boot"
+	},
+	"PetrolioSch-40" : {
+		"volume": "PetrolioSch-40-float_down2_2_2.rek",	
+		"annotation": "Petrolio 40.seg.nrrd",
+		"set": "validation",
+		"class": "Half Shoe"
+	},
+	"Petrolio-Sch-dunkelbraun_42" : {
+		"volume": "Petrolio-Sch-dunkelbraun_42_down2_2_2.rek",
+		"annotation": "Petrolio 42.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Pertolio-dunkelbraun_43" : {
+		"volume": "Pertolio-dunkelbraun_43_down2_2_2.rek",
+		"annotation": "Petrolio 43.seg.nrrd",
+		"set": "test",
+		"class": "Half Shoe"
+	},
+	"Petrolio-Sch-dunkelbraun_44" : {
+		"volume": "Petrolio-Sch-dunkelbraun_44_down2_2_2.rek",	
+		"annotation": "Petrolio 44.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Petrolio-Sch-dunkelbraun_46" : {
+		"volume": "Petrolio-Sch-dunkelbraun_46_down2_2_2.rek",	
+		"annotation": "Petrolio 46.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Tamaris-Pump-schwarz_36" : {
+		"volume": "Tamaris-Pump-schwarz_36_down2_2_2.rek",	
+		"annotation": "TamarisPump 36.seg.nrrd",
+		"set": "training",
+		"class": "Pump"
+	},
+	"Tamaris-Pump-Schwarz-38" : {
+		"volume": "Tamaris-Pump-Schwarz-38_down2_2_2.rek",	
+		"annotation": "TamarisPump 38.seg.nrrd",
+		"set": "training",
+		"class": "Pump"
+	},
+	"Tamaris-Pump-Schwarz_39" : {
+		"volume": "Tamaris-Pump-Schwarz_39_down2_2_2.rek",	
+		"annotation": "TamarisPump 39.seg.nrrd",
+		"set": "validation",
+		"class": "Pump"
+	},
+	"Tamaris-Pump-schwarz_40" : {
+		"volume": "Tamaris-Pump-schwarz_40_down2_2_2.rek",	
+		"annotation": "TamarisPump 40.seg.nrrd",
+		"set": "test",
+		"class": "Pump"
+	},
+	"Tamaris-Pump-schwarz_42" : {
+		"volume": "Tamaris-Pump-schwarz_42_down2_2_2.rek",	
+		"annotation": "TamarisPump 42.seg.nrrd",
+		"set": "training",
+		"class": "Pump"
+	},
+	"Adidas_Martin" : { 
+		"volume": "Adidas_Martin.rek",
+		"annotation": "Adidas_Martin.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Adidas_Martin-weiss" : { 
+		"volume": "Adidas_Martin-weiss.rek",
+		"annotation": "Adidas_Martin-weiss.seg.nrrd",
+		"set": "validation",
+		"class": "Half Shoe"
+	},
+	"Sneaker_Dana_Puma_Flyer" : {
+		"volume": "Sneaker_Dana_Puma_Flyer.rek",
+		"annotation": "Sneaker_Dana_Puma_Flyer.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Sneaker_Dana_Nike.seg" : {
+		"volume": "Sneaker_Dana_Nike.rek",
+		"annotation": "Sneaker_Dana_Nike.seg.nrrd",
+		"set": "test",
+		"class": "Half Shoe"
+	},
+	"McKinley_Anton" : {
+		"volume": "McKinley_Anton_down2_2_2.rek",
+		"annotation": "McKinley_Anton.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"StiefelXY" : {
+		"volume": "Stiefel-XY_40_down2_2_2.rek",
+		"annotation": "StiefelXY.seg.nrrd",
+		"set": "validation",
+		"class": "Boot"
+	},
+	"Lloyd weiss" : {
+		"volume": "Lloyd_weiss_down2_2_2.rek",
+		"annotation": "Lloyd_weiss_down2_2_2.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Lloyd pink" : {
+		"volume": "Lloyd_pink_down2_2_2.rek",
+		"annotation": "Lloyd_pink_down2_2_2.seg.nrrd",
+		"set": "test",
+		"class": "Half Shoe"
+	},
+	"Lloyd 38" : {
+		"volume": "Lloyd_38_down2_2_2.rek",
+		"annotation": "Lloyd_38_down2_2_2.seg.nrrd",
+		"set": "test",
+		"class": "Half Shoe"
+	},
+	"Lidl 43" : {
+		"volume": "Lidl_43_down2_2_2.rek",
+		"annotation": "Lidl_43_down2_2_2.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Herrenschuh 43" : {
+		"volume": "Herrenschuh_43p5_down2_2_2.rek",
+		"annotation": "Herrenschuh_43p5_down2_2_2.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Camper" : {
+		"volume": "Camper_down2_2_2.rek",
+		"annotation": "Camper_down2_2_2.seg.nrrd",
+		"set": "test",
+		"class": "Half Shoe"
+	},
+	"Bruschi" : {
+		"volume": "Bruschi_down2_2_2.rek",
+		"annotation": "Bruschi_down2_2_2.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Shoepassion Herren 40" : {
+		"volume": "Shoepassion_Herren_40_down2_2_2.rek",
+		"annotation": "Shoepassion_Herren_40_down2_2_2.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Shoepassion 45" : {
+		"volume": "Shoepassion_45_down2_2_2.rek",
+		"annotation": "Shoepassion_45_down2_2_2.seg.nrrd",
+		"set": "test",
+		"class": "Half Shoe"
+	},
+	"Shoepassion 40" : {
+		"volume": "Shoepassion_40_down2_2_2.rek",
+		"annotation": "Shoepassion_40_down2_2_2.seg.nrrd",
+		"set": "validation",
+		"class": "Half Shoe"
+	},
+	"Schuh Martin" : {
+		"volume": "Schuh_Martin_down2_2_2.rek",
+		"annotation": "Schuh_Martin_down2_2_2.seg.nrrd",
+		"set": "test",
+		"class": "Half Shoe"
+	},
+	"Puma 38" : {
+		"volume": "Puma_38_down2_2_2.rek",
+		"annotation": "Puma_38_down2_2_2.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	},
+	"Puma Silver" : {
+		"volume": "Puma_Silver_down2_2_2.rek",
+		"annotation": "Puma_Silver_down2_2_2.seg.nrrd",
+		"set": "test",
+		"class": "Half Shoe"
+	},
+	"Puma White" : {
+		"volume": "Puma_White_down2_2_2.rek",
+		"annotation": "Puma_White_down2_2_2.seg.nrrd",
+		"set": "training",
+		"class": "Half Shoe"
+	}
+}
